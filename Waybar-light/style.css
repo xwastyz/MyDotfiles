@@ -20,7 +20,7 @@ padding: 0.3rem 0.6rem;
 margin: 0.4rem 0.25rem;
 border-radius: 6px;
 /* background-color: #181825; */
-background-color: #FAF9F6;
+background-color: #D3D3D3;
 color: #228B22;
 }
 
@@ -54,7 +54,7 @@ padding: 0.3rem 0.6rem;
 margin: 0.4rem 0.25rem;
 border-radius: 6px;
 /* background-color: #181825; */
-background-color: #FAF9F6;
+background-color: #D3D3D3;
 }
 
 #mpris.playing {
@@ -117,4 +117,3 @@ tooltip {
 #custom-notification {
 color: #000000;
 }
-
