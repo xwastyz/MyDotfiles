@@ -20,8 +20,8 @@ padding: 0.3rem 0.6rem;
 margin: 0.4rem 0.25rem;
 border-radius: 6px;
 /* background-color: #181825; */
-background-color: #000000;
-color: #228B22;
+background-color: #D3D3D3;
+color: #3E3933;
 }
 
 #workspaces button:hover {
@@ -30,7 +30,7 @@ background-color: #1A472A;
 }
 
 #workspaces button.active {
-background-color: #1A472A;
+background-color: #3E3933;
 color: #89b4fa;
 }
 
@@ -54,11 +54,11 @@ padding: 0.3rem 0.6rem;
 margin: 0.4rem 0.25rem;
 border-radius: 6px;
 /* background-color: #181825; */
-background-color: #000000;
+background-color: #3E3933;
 }
 
 #mpris.playing {
-color: #90EE90;
+color: #FFFFFF;
 }
 
 #mpris.paused {
@@ -67,7 +67,7 @@ color: #9399b2;
 
 #custom-sep {
 padding: 0px;
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 window#waybar.empty #window {
@@ -75,39 +75,39 @@ window#waybar.empty #window {
 }
 
 #cpu {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 #memory {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 #clock {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 #clock.simpleclock {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 #window {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 #pulseaudio {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 #pulseaudio.muted {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 #custom-logo {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 #custom-power {
-color: #D3D3D3;
+color: #FFFFFF;
 }
 
 tooltip {
@@ -115,5 +115,5 @@ tooltip {
     border: 2px solid #89b4fa;
 }
 #custom-notification {
-color: #D3D3D3;
+color: #FFFFFF;
 }
