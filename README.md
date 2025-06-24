@@ -2,6 +2,8 @@
 Posting my Hyprland configs for others to use or change
 -------------------------------------------------------
 My desktop: 
-![screenshot_24062025_121520](https://github.com/user-attachments/assets/2af9ed93-81de-47f4-8287-961b0a3e62df)
+![screenshot_24062025_151136](https://github.com/user-attachments/assets/bb41b3de-dd22-45d4-a88a-4b8b9e4b80d3)
 
-![screenshot_24062025_121505](https://github.com/user-attachments/assets/e4dc4e12-de4d-4dd2-8e5b-2fd25baa2859)
+![screenshot_24062025_151211](https://github.com/user-attachments/assets/f83e5ffd-7a03-48d5-bb40-eee9a619f19b)
+
+
